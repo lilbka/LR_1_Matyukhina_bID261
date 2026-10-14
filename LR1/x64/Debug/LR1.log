@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\user\Desktop\Алгоритмизация\LR1\LR1\Source.c(6,2): warning C4013: zad1: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\user\Desktop\Алгоритмизация\LR1\LR1\Source.c(7,2): warning C4013: zad2: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\user\Desktop\Алгоритмизация\LR1\LR1\Source.c(8,2): warning C4013: zad3: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\user\Desktop\Алгоритмизация\LR1\LR1\Source.c(35,1): warning C4716: zad3: должна возвращать значение
+C:\Users\user\Desktop\Алгоритмизация\LR1\LR1\Source.c(28,1): warning C4716: zad2: должна возвращать значение
+  LR1.vcxproj -> C:\Users\user\Desktop\Алгоритмизация\LR1\x64\Debug\LR1.exe
