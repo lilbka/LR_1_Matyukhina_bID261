@@ -1,22 +1,22 @@
 #include <locale.h>
 #include <stdio.h>
 
-void main()
+int main(void)
 {
+	setlocale(LC_ALL, "RUS");
 	zad1();
 	zad2();
 	zad3();
 }
 
-int zad1()
+int zad1(void)
 {
-	setlocale(LC_ALL, "RUS");
 	puts("Моя программа");
 	getchar();
 	return 0;
 }
 
-int zad2()
+int zad2(void)
 {
 	puts("************************************************");
 	puts("*                                              *");
@@ -27,7 +27,7 @@ int zad2()
 	puts("************************************************");
 }
 
-int zad3()
+int zad3(void)
 {
 	puts("____  ____  .  ____   ____  ____ ");
 	puts("|  |  |__|  |  |  |   |  |  |___ ");
